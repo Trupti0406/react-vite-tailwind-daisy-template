@@ -166,6 +166,6 @@ This is how your app will look running in localhost with Tailwind CSS and Daisy 
 
 ----
 
-## If you want to skip the manual setup, you can simply clone the repo and run `npm install` and `npm run dev`.
+### If you want to skip the manual setup, you can simply clone the repo and run `npm install` and `npm run dev`.
 
-### Don't forget to star the repo! ⭐
+## Don't forget to star the repo! ⭐
