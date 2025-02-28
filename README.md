@@ -166,12 +166,8 @@ This is how your app will look running in localhost with Tailwind CSS and Daisy 
 
 ![Screenshot of app with Tailwind CSS and DaisyUI](/src/Screenshot.png)
 
-## 4. Final Thoughts
+----
 
-Now you have a fully functional React app with Vite, Tailwind CSS 4, and DaisyUI. This setup is optimized for modern development, providing fast builds and an enhanced developer experience.
+## If you want to skip the manual setup, you can simply clone the repo and run `npm install` and `npm run dev`.
 
-If you want to skip the manual setup you can simply clone the repo and run `npm install` and `npm run dev`.
-
-Don't forget to star the repo! ⭐
-
-Happy coding! 🚀
+### Don't forget to star the repo! ⭐
