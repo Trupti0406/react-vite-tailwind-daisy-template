@@ -1,7 +1,5 @@
 # Setting Up a React Project with Vite, Tailwind CSS 4, and DaisyUI
 
-## Introduction
-
 With the deprecation of Create React App (CRA), the modern way to set up a React project without wanting any framework involved is by using Vite. This guide will walk you through setting up a React project with [Vite](https://vitejs.dev/), [Tailwind CSS 4](https://tailwindcss.com/docs/installation/using-vite), and [DaisyUI](https://daisyui.com/), making your development process faster and more efficient.
 
 ## 1. Create a React App with Vite
