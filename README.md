@@ -164,7 +164,7 @@ Save the file and check your browser. If you see the styled chat bubble, DaisyUI
 
 This is how your app will look running in localhost with Tailwind CSS and Daisy UI installed:
 
-![Screenshot of app with Tailwind CSS and DaisyUI](/src/assets/screenshot.png)
+![Screenshot of app with Tailwind CSS and DaisyUI](/src/Screenshot.png)
 
 ## 4. Final Thoughts
 
